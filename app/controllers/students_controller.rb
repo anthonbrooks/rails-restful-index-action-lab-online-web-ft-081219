@@ -1,0 +1,3 @@
+class SudentsController < ApplicationController
+  
+end
